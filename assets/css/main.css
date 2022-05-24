@@ -3908,12 +3908,23 @@ input, select, textarea {
 
 		}
 
-/* Custom Classes */
+/* Custom Classes and ID's */
 
 .small-bold {
-	font-size: 18px;
+	font-size: 20px;
 }
 
 .table-equalizer {
 	width: 50%;
+}
+
+.image-default {
+	transition: opacity 500ms;
+	opacity: 40%;
+	border: solid 4px rgb(49, 36, 80, 0.9);
+}
+
+.image-default:hover {
+	transition: opacity 500ms;
+	opacity: 100%;
 }
