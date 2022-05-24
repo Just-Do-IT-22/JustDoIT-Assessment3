@@ -3907,3 +3907,13 @@ input, select, textarea {
 			}
 
 		}
+
+/* Custom Classes */
+
+.small-bold {
+	font-size: 18px;
+}
+
+.table-equalizer {
+	width: 50%;
+}
