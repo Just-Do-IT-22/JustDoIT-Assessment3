@@ -3928,3 +3928,8 @@ input, select, textarea {
 	transition: opacity 500ms;
 	opacity: 100%;
 }
+
+#skills-img-container {
+	display: flex;
+	justify-content: center;
+}
