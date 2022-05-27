@@ -3933,3 +3933,7 @@ input, select, textarea {
 	display: flex;
 	justify-content: center;
 }
+
+#common-table {
+	vertical-align: middle;
+}
